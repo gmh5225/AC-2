@@ -1,0 +1,10 @@
+^Z:\AC\SERVER_X64\BUILD\CMAKEFILES\45C8F8BD57D2D102D54D1B92325B8528\GENERATE.STAMP.RULE
+setlocal
+"Z:\Program Files\CMake\bin\cmake.exe" -SZ:/AC/Server_x64 -BZ:/AC/Server_x64/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file Z:/AC/Server_x64/build/Server.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

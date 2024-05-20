@@ -1,0 +1,5 @@
+﻿  test.cpp
+Server.lib(CThreadPool.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in test.obj
+Server.lib(CThreadPool.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in test.obj
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+Z:\AC\Server_Testbase\x64\Debug\Server_Testbase.exe : fatal error LNK1319: 2 mismatches detected

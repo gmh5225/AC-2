@@ -1,0 +1,12 @@
+﻿  Assembling Syscall.asm...
+  AES.cpp
+  CController.cpp
+  ClientHandler.cpp
+  DllMain.cpp
+  Packet.cpp
+     Creating library Z:\AC\x64\Release\Client_x64.lib and object Z:\AC\x64\Release\Client_x64.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 918 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Client_x64.vcxproj -> Z:\AC\x64\Release\Client_x64.dll

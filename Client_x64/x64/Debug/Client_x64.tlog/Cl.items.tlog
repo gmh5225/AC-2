@@ -1,0 +1,10 @@
+Z:\AC\Client_x64\AES.cpp;Z:\AC\Client_x64\x64\Debug\AES.obj
+Z:\AC\Client_x64\CController.cpp;Z:\AC\Client_x64\x64\Debug\CController.obj
+Z:\AC\Client_x64\ClientHandler.cpp;Z:\AC\Client_x64\x64\Debug\ClientHandler.obj
+Z:\AC\Client_x64\CMapper.cpp;Z:\AC\Client_x64\x64\Debug\CMapper.obj
+Z:\AC\Client_x64\CModule.cpp;Z:\AC\Client_x64\x64\Debug\CModule.obj
+Z:\AC\Client_x64\CSyscall.cpp;Z:\AC\Client_x64\x64\Debug\CSyscall.obj
+Z:\AC\Client_x64\CTCPClient.cpp;Z:\AC\Client_x64\x64\Debug\CTCPClient.obj
+Z:\AC\Client_x64\DllMain.cpp;Z:\AC\Client_x64\x64\Debug\DllMain.obj
+Z:\AC\Client_x64\Packet.cpp;Z:\AC\Client_x64\x64\Debug\Packet.obj
+Z:\AC\Client_x64\RSA.cpp;Z:\AC\Client_x64\x64\Debug\RSA.obj

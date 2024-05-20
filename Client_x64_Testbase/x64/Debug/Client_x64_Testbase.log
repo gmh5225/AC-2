@@ -1,0 +1,41 @@
+﻿  CPacketTest.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+Z:\AC\Client_x64_Testbase\CTCPServerSocket.hpp(24,26): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CPacketTest.cpp')
+  
+Z:\AC\Client_x64_Testbase\CTCPServerSocket.hpp(36,30): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CPacketTest.cpp')
+  
+  CTCPClientTest.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+Z:\AC\Client_x64_Testbase\CTCPClientTest.cpp(82,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ClientServerTest.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+Z:\AC\Client_x64_Testbase\CTCPServerSocket.hpp(24,26): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ClientServerTest.cpp')
+  
+Z:\AC\Client_x64_Testbase\CTCPServerSocket.hpp(36,30): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ClientServerTest.cpp')
+  
+  ModuleMapperTest.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+Z:\AC\Client_x64_Testbase\CTCPServerSocket.hpp(24,26): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ModuleMapperTest.cpp')
+  
+Z:\AC\Client_x64_Testbase\CTCPServerSocket.hpp(36,30): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ModuleMapperTest.cpp')
+  
+  Generating Code...
+  Client_x64_Testbase.vcxproj -> Z:\AC\x64\Debug\Client_x64_Testbase.exe

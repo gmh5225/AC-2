@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ClientServerTest.cpp">
+      <Filter>Integration Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="CTCPClientTest.cpp">
+      <Filter>Unit Tests\Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="AESTest.cpp">
+      <Filter>Unit Tests\openssl</Filter>
+    </ClCompile>
+    <ClCompile Include="RSATest.cpp">
+      <Filter>Unit Tests\openssl</Filter>
+    </ClCompile>
+    <ClCompile Include="CPacketTest.cpp">
+      <Filter>Unit Tests\Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="ModuleMapperTest.cpp">
+      <Filter>Unit Tests</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Unit Tests">
+      <UniqueIdentifier>{098dacee-acd4-46db-92c3-4f45499247ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Unit Tests\memory">
+      <UniqueIdentifier>{8f3d6591-cae0-45e3-9634-143cc249038e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Unit Tests\Networking">
+      <UniqueIdentifier>{3114fba2-e19a-44ed-afd7-65f4a2d5e9d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Unit Tests\WinAPI">
+      <UniqueIdentifier>{f7377e8d-f936-4985-8c01-20d1778c81c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Unit Tests\openssl">
+      <UniqueIdentifier>{cc5b99cb-9c78-43ea-b0b6-af4adca9e0b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Integration Tests">
+      <UniqueIdentifier>{360ad624-0182-49ba-9a37-16049f2db451}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Util">
+      <UniqueIdentifier>{2c992784-4452-495d-bcc0-969c4f8144e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="String">
+      <UniqueIdentifier>{0ce7d500-8e76-47e3-9c3d-7a01e5b8fd4e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CTCPServerSocket.hpp">
+      <Filter>Util</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

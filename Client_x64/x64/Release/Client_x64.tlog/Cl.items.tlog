@@ -1,0 +1,9 @@
+Z:\AC\Client_x64\AES.cpp;Z:\AC\Client_x64\x64\Release\AES.obj
+Z:\AC\Client_x64\CController.cpp;Z:\AC\Client_x64\x64\Release\CController.obj
+Z:\AC\Client_x64\ClientHandler.cpp;Z:\AC\Client_x64\x64\Release\ClientHandler.obj
+Z:\AC\Client_x64\CMapper.cpp;Z:\AC\Client_x64\x64\Release\CMapper.obj
+Z:\AC\Client_x64\CModule.cpp;Z:\AC\Client_x64\x64\Release\CModule.obj
+Z:\AC\Client_x64\CSyscall.cpp;Z:\AC\Client_x64\x64\Release\CSyscall.obj
+Z:\AC\Client_x64\CTCPClient.cpp;Z:\AC\Client_x64\x64\Release\CTCPClient.obj
+Z:\AC\Client_x64\DllMain.cpp;Z:\AC\Client_x64\x64\Release\DllMain.obj
+Z:\AC\Client_x64\Packet.cpp;Z:\AC\Client_x64\x64\Release\Packet.obj
